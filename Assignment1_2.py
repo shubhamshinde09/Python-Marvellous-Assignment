@@ -1,5 +1,5 @@
 # Write a program which contains one function named as ChkNum() 
-. # If number is even then it should display "Even number" otherwise display "Odd number" on console.
+# If number is even then it should display "Even number" otherwise display "Odd number" on console.
 # which accept one parameter as number
 
 def ChKNum(num):
